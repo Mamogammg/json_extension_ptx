@@ -1,0 +1,9 @@
+{
+  "name": "JSON Extension",
+  "version": "0.0.2",
+  "description": "Extension for handling basic JSON operations in MakeCode for micro:bit, including creating new JSON objects.",
+  "dependencies": {},
+  "files": [
+    "main.ts"
+  ]
+}
